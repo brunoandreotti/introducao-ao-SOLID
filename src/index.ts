@@ -13,3 +13,5 @@ app.use("/api-docs", swaggerUi.serve, swaggerUi.setup(swaggerFile));
 app.use("/users", usersRoutes);
 
 export { app };
+
+//Teste github desktop no WSL
